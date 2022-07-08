@@ -1,2 +1,2 @@
 # starting_python
-These files were used in a python course I made 2018 for master students in the Neuroscience in Society-masters at the UvA.
+I created and taught a Python for beginners course offered to students of the Brain & Cognition in Society Masters Programme. The goal of the course was to introduce students into using pandas, sci-kit learn and numpy to preprocess, predict and visualize real-world data
